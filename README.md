@@ -7,9 +7,9 @@ The Purpose of this project is teach all the collaborators about Full Stack Web 
 ## Full Stack:
 
 The stack used in this project is:
-React
-Python/Django
-PostgreSQL
+* React
+* Python/Django
+* PostgreSQL
 
 ## Useful Resources:
 
